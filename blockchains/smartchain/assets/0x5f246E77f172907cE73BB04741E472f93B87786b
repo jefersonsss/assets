@@ -1,0 +1,10 @@
+   { "name": "DIAMOND COIN Token",
+    "website": "https://dcoin.com/busd",
+    "description": "DCOIN is a stablecoin issued by Paxos in partnership with Binance.",
+    "explorer": "https://bscscan.com/token/0x5f246E77f172907cE73BB04741E472f93B87786b",
+    "type": "BEP20",
+    "symbol": "DCOIN",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x5f246E77f172907cE73BB04741E472f93B87786b"
+}
